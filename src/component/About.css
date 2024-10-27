@@ -1,0 +1,15 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .about p {
+    max-width: 600px;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #333;
+  }
+  
